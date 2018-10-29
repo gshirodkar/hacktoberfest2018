@@ -70,3 +70,4 @@ int main()
     cout<<dis[i]<<" ";
     cout<<endl;
 }
+//dijkstra algorithm seems really cool
